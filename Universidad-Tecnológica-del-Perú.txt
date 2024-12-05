@@ -1,0 +1,5 @@
+Nombre de la universidad: Universidad Tecnológica del Perú (UTP)
+Dirección: Av. Arequipa 6231, San Borja, Lima, Perú
+País: Perú
+Sitio web: https://www.utp.edu.pe
+Correo electrónico de contacto: info@utp.edu.pe
